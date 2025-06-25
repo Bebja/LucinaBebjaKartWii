@@ -13,7 +13,7 @@ This file explains what is planned and what we've already done coding-wise!
 [Items on Minimap](https://mariokartwii.com/showthread.php?tid=1896)
 
 # Toggable Codes
-[No Voice Sounds (Online)](https://mariokartwii.com/showthread.php?tid=483)
+[No Voice Sounds (Online)](https://mariokartwii.com/showthread.php?tid=483)  
 [No Voice Sounds (Offline)](https://mariokartwii.com/showthread.php?tid=482)
 
 # BIGGER PROJECTS
