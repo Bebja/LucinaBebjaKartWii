@@ -14,7 +14,7 @@ This file explains what is planned and what we've already done coding-wise!
 
 # Toggable Codes
 [No Voice Sounds (Online)](https://mariokartwii.com/showthread.php?tid=483)
-[No Voice Sounds (Offline](https://mariokartwii.com/showthread.php?tid=482)
+[No Voice Sounds (Offline)](https://mariokartwii.com/showthread.php?tid=482)
 
 # BIGGER PROJECTS
 Input Display (refer to OptPack's source ig)
