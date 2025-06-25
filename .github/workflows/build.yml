@@ -42,7 +42,7 @@ jobs:
           
           cd LBKW_
           move LBKW ..\Pulsar
-          move /Y PulsarEngine\Race\200cc.cpp ..\Pulsar\PulsarEngine\Race\200cc.cpp
+          move /Y mod\PulsarEngine\Race\200cc.cpp ..\Pulsar\PulsarEngine\Race\200cc.cpp
           cd ..\Pulsar
           
           del /F /Q /S build
